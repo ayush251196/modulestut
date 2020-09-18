@@ -1,4 +1,4 @@
-module github.com/ayush/modulestut
+module github.com/ayush251196/modulestut
 
 go 1.15
 
