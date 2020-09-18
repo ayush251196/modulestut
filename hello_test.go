@@ -2,13 +2,6 @@ package modulestut
 
 import "testing"
 
-// func TestHello(t *testing.T) {
-// 	got := Hello()
-// 	want := "Hello, world."
-// 	if got != want {
-// 		t.Errorf("Hello() = %q, want %q", got, want)
-// 	}
-// }
 
 func TestV3Hello(t *testing.T) {
 	got := V3Hello()
